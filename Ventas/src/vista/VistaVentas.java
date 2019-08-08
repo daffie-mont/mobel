@@ -89,6 +89,7 @@ public class VistaVentas extends javax.swing.JFrame {
         btnCancelar.setFont(new java.awt.Font("Tahoma", 1, 13)); // NOI18N
         btnCancelar.setText("Cancelar venta");
 
+        btnBuscar.setBackground(new java.awt.Color(153, 204, 255));
         btnBuscar.setFont(new java.awt.Font("Tahoma", 1, 13)); // NOI18N
         btnBuscar.setText("Buscar una venta");
 
